@@ -1,3 +1,2 @@
 # Language-Detection
-
-Character Based N-gram generator using python numpy.
+Language Detection Using ANN compared with n-gram model based on probability.
