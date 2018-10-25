@@ -3,7 +3,7 @@ Machine Learning Group assesment on Language Detection Using ANN compared with n
 
 
 Project Members:
-Conor O'Sullivan
-Ashutosh Sharma
-Yifang Wang
+Conor O'Sullivan,
+Ashutosh Sharma,
+Yifang Wang,
 Xingyu Qui
