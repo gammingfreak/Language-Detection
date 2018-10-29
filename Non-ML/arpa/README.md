@@ -1,1 +1,1 @@
-This folder stores n-gram words and for each language. 
+This folder stores tri-gram words in corpus for each language. 
